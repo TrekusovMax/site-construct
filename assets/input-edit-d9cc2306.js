@@ -1,0 +1,1 @@
+import{j as p}from"./index-c322cabe.js";const o="input_edit_0-I6",u={input_edit:o},a=({id:t,name:n,value:i,onChange:e})=>p.jsx("input",{className:u.input_edit,id:t,name:n,type:"text",value:i,onChange:s=>e(s)});export{a as I};

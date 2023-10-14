@@ -1,1 +1,0 @@
-import{j as s}from"./index-ca03108d.js";import{S as t,a as e}from"./site-view-panel-22c8bf89.js";import"./input-0f0c5914.js";import"./label-1a455ee9.js";import"./site-show-ea8c90fe.js";const i="sites_new_T0W4",n={sites_new:i},p=()=>s.jsxs("div",{className:n.sites_new,children:[s.jsx(t,{}),s.jsx(e,{})]});export{p as default};

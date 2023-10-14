@@ -1,0 +1,1 @@
+import{j as e}from"./index-c322cabe.js";const n="button_delete_F2m0",o={button_delete:n},a=({onClick:t})=>e.jsx("button",{className:o.button_delete,onClick:t,children:"x"}),s="button_add_pgTw",d={button_add:s},c=({onClick:t})=>e.jsx("button",{className:d.button_add,onClick:t,children:"+"});export{a as B,c as a};
