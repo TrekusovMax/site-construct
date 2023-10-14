@@ -1,0 +1,1 @@
+import{j as b,i as t}from"./index-ca03108d.js";const n="label_021b",m="block_0Qmx",x="error_o5ct",l={label:n,block:m,error:x},i=r=>{const{className:o="",forValue:e,label:s,block:c,error:a}=r;return b.jsx("label",{htmlFor:e,className:t(l.label,o,{[l.block]:c},{[l.error]:a}),children:s})};export{i as L};
